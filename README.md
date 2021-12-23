@@ -6,7 +6,9 @@ I'm effort to build responsive and modern design projects. Sometime I have great
 I like metaverse! 🚀🚀
 
 <p align="center">
+   <strong>
    Professional skills
+   </strong>
 </p>
 
 <p align="center"> 
