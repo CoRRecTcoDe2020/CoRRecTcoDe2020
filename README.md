@@ -20,6 +20,6 @@ I like metaverse! 🚀🚀
 </p>
 
 
-● You can find me as <strong>parsash</strong> on social media!
+● You can find me as <strong>@parsash</strong> on social media!
 
 Have a Nice time! ☕
