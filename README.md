@@ -10,5 +10,5 @@ I like metaverse! 🚀🚀
 </p>
 
 <p align="center"> 
-  <img src="https://raw.githubusercontent.com/CoRRecTcoDe2020/uber-2.0/79ec1d6bbb8673e6dca999a85045ea34e0b83d32/images/reactlogo10.svg   token=ASRHMYR2SSIJGHMNNMLAHUTBYO7OS" alt="js" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/CoRRecTcoDe2020/CoRRecTcoDe2020/e749ae6c3c1070f43102565831364961ebaa3cb6/images/react.svg" alt="js" width="40" height="40" />
 </p>
