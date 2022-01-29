@@ -12,14 +12,14 @@ I like metaverse! 🚀🚀
    </strong>
 </p>
 
-| Frontend  | St𝔂ling |  Backend/DB | Others |
-| ------------- | ------------- | | ------------- | | ------------- |
-| HTML  | CSS  | Node.js  | PSD to HTML |
-| Javascript  | Sass  | MongoDB  | Axios  |
-| Next.js  | Tailwind CSS | Firebase  | Api  |
-| React  | St𝔂led-Components  | PostgreSQL  | Debugging  |
-| T𝔂peScript | Bootstrap |  | BEM  |
-| | | | |
+| **Frontend**       | **Styling**     | **Backend/DB** | **Others** |
+| :-------------: |:-----------:|:-----:|:-----:|
+| HTML        | CSS | Firebase |Axios |
+| Javascript  | TailwindCSS |   MongoDB | Api |
+| React       | SaSS | Node |  BEM |
+| Next        | Styled-Components |  | Stripe Payments |
+| TypeScript  | Bootstrap |   | Bug-Fix |
+| | | |  Refactoring |
 
 ● You can find me as <strong>@parsash</strong> on social media!
 
