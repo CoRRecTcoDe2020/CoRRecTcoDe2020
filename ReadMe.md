@@ -19,7 +19,7 @@ I like metaverse! 🚀🚀
 | React       | Tailwind CSS | Firebase | Axios |
 | Next        | St𝓎led-Components | PostgreSQL | Api |
 | T𝓎peScript  | Bootstrap |   | BEM |
-| | | |  PSD to HTML |
+| | | |  Debugging |
 
 ● You can find me as <strong>@parsash</strong> on social media!
 
