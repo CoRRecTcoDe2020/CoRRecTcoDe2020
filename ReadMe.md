@@ -1,4 +1,4 @@
-<img align='right' src="https://c.tenor.com/y2JXkY1pXkwAAAAS/cat-computer.gif" width="250">
+<img align='right' src="https://c.tenor.com/y2JXkY1pXkwAAAAS/cat-computer.gif" width="200">
 
 ### Hi there! 👋
 
