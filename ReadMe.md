@@ -9,7 +9,7 @@ I like metaverse! 🚀🚀
 ### 💻 Professional skills
 
 | Frontend       | St𝓎ling     | Backend/DB | Others |
-| :-------------: |:-----------:|:-----:|:-----:|
+| ------------- |-----------|-----|-----|
 | HTML        | CSS | Node.js | Responsive Design |
 | Javascript  | Sass |   MongoDB | PSD to HTML |
 | React       | Tailwind CSS | Firebase | Axios |
