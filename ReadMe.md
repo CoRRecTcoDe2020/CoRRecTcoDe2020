@@ -17,7 +17,7 @@ I like metaverse! 🚀🚀
 | T𝓎peScript  | Bootstrap |   | BEM |
 | | | |  Debugging |
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wongprom&layout=compact&theme=radical&langs_count=8)](https://github.com/wongprom/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CoRRecTcoDe2020&layout=compact&theme=radical&langs_count=8)](https://github.com/wongprom/github-readme-stats)
 
 ● You can find me as <strong>@parsash</strong> on social media!
 
