@@ -15,11 +15,11 @@ I like metaverse! 🚀🚀
 | Frontend       | St𝓎ling     | Backend/DB | Others |
 | :-------------: |:-----------:|:-----:|:-----:|
 | HTML        | CSS | Node.js | Responsive Design |
-| Javascript  | Sass |   MongoDB | Axios |
-| React       | Tailwind CSS | Firebase | Api |
-| Next        | St𝓎led-Components | PostgreSQL | BEM |
-| TypeScript  | Bootstrap |   | Debugging |
-| | | | | | |
+| Javascript  | Sass |   MongoDB | PSD to HTML |
+| React       | Tailwind CSS | Firebase | Axios |
+| Next        | St𝓎led-Components | PostgreSQL | Api |
+| TypeScript  | Bootstrap |   | BEM |
+| | | | | | Debugging |
 
 ● You can find me as <strong>@parsash</strong> on social media!
 
