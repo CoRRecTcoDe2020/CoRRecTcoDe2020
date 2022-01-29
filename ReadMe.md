@@ -1,4 +1,6 @@
-### Hi there! 👋 <img src="https://c.tenor.com/y2JXkY1pXkwAAAAS/cat-computer.gif" width="95px">
+<img align='right' src="https://c.tenor.com/y2JXkY1pXkwAAAAS/cat-computer.gif" width="200">
+
+### Hi there! 👋
 
 I'm Parsa, a teenager programmer!
 I'm 15 Years old and I'm a Front-end Developer. I'm effort to build responsive and modern design projects. Sometime I have great ideas in mine mind to build an amazing project! 👨🏻‍💻
