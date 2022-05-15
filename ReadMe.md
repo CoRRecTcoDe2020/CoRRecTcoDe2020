@@ -18,7 +18,7 @@ I like metaverse! 🚀🚀
 | | | |  Debugging |
 
 [![parsash GitHub stats](https://github-readme-stats.vercel.app/api?username=CoRRecTcoDe2020&theme=radical&show_icons=true)](https://github.com/wongprom/github-readme-stats)
-<a href="https://app.daily.dev/parsash"><img src="https://api.daily.dev/devcards/e0f02bf273e1427aa78fb143f5bcb267.png?r=0bq" width="400" alt="CoRRecT CoDe's Dev Card"/></a>
+<a href="https://app.daily.dev/parsash"><img src="https://api.daily.dev/devcards/e0f02bf273e1427aa78fb143f5bcb267.png?r=0bq" width="400" align="right" alt="CoRRecT CoDe's Dev Card"/></a>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CoRRecTcoDe2020&layout=compact&theme=radical&langs_count=8)](https://github.com/wongprom/github-readme-stats)
 
