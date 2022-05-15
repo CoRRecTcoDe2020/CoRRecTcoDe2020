@@ -1,4 +1,3 @@
-<a href="https://app.daily.dev/parsash"><img src="https://api.daily.dev/devcards/e0f02bf273e1427aa78fb143f5bcb267.png?r=0bq" width="400" align="right" alt="CoRRecT CoDe's Dev Card"/></a>
 <img align='right' src="https://c.tenor.com/y2JXkY1pXkwAAAAS/cat-computer.gif" width="200">
 
 # Hi there! I'm Parsa Shaker 👋
