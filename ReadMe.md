@@ -17,10 +17,6 @@ I like metaverse! 🚀🚀
 | T𝓎peScript  | Bootstrap |   | BEM |
 | | | |  Debugging |
 
-[![parsash GitHub stats](https://github-readme-stats.vercel.app/api?username=CoRRecTcoDe2020&theme=radical&show_icons=true)](https://github.com/CoRRecTcoDe2020/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CoRRecTcoDe2020&layout=compact&theme=radical&langs_count=8)](https://github.com/CoRRecTcoDe2020/github-readme-stats)
-
 ● You can find me as <strong>@parsash</strong> on social media!
 
 Have a Nice time! ☕
