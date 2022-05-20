@@ -4,8 +4,6 @@ I'm Parsa, a teenager programmer!
 I'm 15 Years old and I'm a Front-end Developer. I'm effort to build responsive and modern design projects. Sometimes I have great ideas in my mind to build an amazing project! 👨🏻‍💻
 I like metaverse! 🚀🚀
 
-<img align='right' src="https://c.tenor.com/y2JXkY1pXkwAAAAS/cat-computer.gif" width="200">
-
 ### 💻 Professional skills
 
 | Frontend       | St𝓎ling     | Backend/DB | Others |
