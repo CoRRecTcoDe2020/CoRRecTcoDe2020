@@ -11,8 +11,8 @@ I like metaverse! 🚀🚀
 | HTML        | CSS | Node.js | Responsive Design |
 | Javascript  | Sass |   MongoDB | PSD to HTML |
 | React       | Tailwind CSS | Firebase | Axios |
-| Next.js        | St𝓎led-Components | PostgreSQL | Api |
-| T𝓎peScript  | Bootstrap |   | BEM |
+| Next.js        | Styled-Components | PostgreSQL | Api |
+| TypeScript  | Bootstrap |   | BEM |
 | | | |  Debugging |
 
 [![CoRRecTcoDe's GitHub stats](https://github-readme-stats.vercel.app/api?username=CoRRecTcoDe2020&theme=radical&show_icons=true)](https://github.com/wongprom/github-readme-stats)
