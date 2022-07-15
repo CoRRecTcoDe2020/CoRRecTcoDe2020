@@ -1,6 +1,6 @@
 # Hi there! I'm Parsa Shaker 👋
 
-<a href="https://app.daily.dev/parsash"><img src="https://api.daily.dev/devcards/e0f02bf273e1427aa78fb143f5bcb267.png?r=l6c" width="400" alt="CoRRecT CoDe's Dev Card"/></a>
+<a href="https://app.daily.dev/parsash"><img src="https://github.com/CoRRecTcoDe2020/CoRRecTcoDe2020/blob/main/devcard.svg" width="200" alt="CoRRecT CoDe's Dev Card"/></a>
 
 I'm Parsa, a teenager programmer!
 I'm 15 Years old and I'm a Front-end Developer. I'm effort to build responsive and modern design projects. Sometimes I have great ideas in my mind to build an amazing project! 👨🏻‍💻
